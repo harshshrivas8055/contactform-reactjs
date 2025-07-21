@@ -1,0 +1,23 @@
+body {
+background-color: white;
+}
+
+nav {
+    display: flex;
+    margin-left: 90px;
+    margin-right: 90px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    gap: 25px;
+}
+
+ul li {
+    font-size: large;
+    font-weight: 500;
+    cursor: pointer;
+}

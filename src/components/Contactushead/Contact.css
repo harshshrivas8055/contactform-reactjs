@@ -1,0 +1,20 @@
+
+.contact {
+    display: flex;
+    flex-direction: column;
+    margin:53px 200px 0 200px;
+    
+}
+
+.contacth1 {
+    margin-bottom: 15px;
+}
+
+.contact p {
+    text-align: justify;
+    font-weight: 400;
+}
+
+.contact h1 {
+    font-weight: 800;
+}
