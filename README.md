@@ -1,6 +1,6 @@
 # 📬 Contact Form - ReactJS
 
-This is a simple and responsive contact form built using **ReactJS**. It allows users to input their name, email, subject, and message, and submit it. The form is styled with basic CSS and can be integrated with services like **EmailJS**, **Formspree**, or your own backend to send messages.
+This is a simple and responsive contact form built using **ReactJS**. It allows users to input their name, email, subject, and message, and submit it. The form is styled with basic CSS and useState
 
 ## 🚀 Features
 
@@ -10,17 +10,24 @@ This is a simple and responsive contact form built using **ReactJS**. It allows 
 - 📧 Easy integration with email services
 - ⚛️ Built using React functional components and hooks
 
-## 📸 Demo
 
-![Contact Form Screenshot](https://raw.githubusercontent.com/harshshrivas8055/contactform-reactjs/main/src/assets/screenshot.png)  
-> *If image doesn’t load, check that the `screenshot.png` is in `src/assets` folder.*
 
 ## 🛠️ Technologies Used
 
 - **ReactJS**
 - **CSS3**
 - **JavaScript (ES6+)**
-- (Optional: EmailJS or other service if integrated)
+  
 
 ## 📁 Folder Structure
 
+
+## 🧑‍💻 Getting Started
+
+To run the project locally, follow these steps:
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/harshshrivas8055/contactform-reactjs.git
+cd contactform-reactjs
